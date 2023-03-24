@@ -1,5 +1,4 @@
 public class Ogrenci {
-
     public Ogrenci(
             String ad,
             String soyad,
@@ -8,7 +7,6 @@ public class Ogrenci {
         this.Soyad = soyad;
         this.Numara = numara;
     }
-
     public int Numara;
     public String Ad;
     public String Soyad;
